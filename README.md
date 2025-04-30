@@ -159,16 +159,11 @@ If you want to contribute to CropForesight or run it locally for development pur
  
  <a href="#top">Back to top</a>
  
-## Deployment🚀🚀
-
-✅ CropForesight's frontend is deployed and can be accessed online at [https://crop-foresight-front-end.vercel.app/](https://crop-foresight-front-end.vercel.app/). 
 
 ✅ Feel free to explore the website and witness the power of smart crop recommendation firsthand!
 
-## ✨ Thank You for Your Contribution!
-<a href="https://github.com/abhijeet141/CropForesight/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=abhijeet141/CropForesight" />
-</a>
+
+
 
 ## License 🪪
 This project is licensed under the MIT License.
